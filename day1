@@ -17,7 +17,7 @@
 输入：nums = [3,1,2,10,1]
 输出：[3,4,6,16,17]
 
-
+```java
 class Solution {
     public int[] runningSum(int[] nums) {
             int length = nums.length;
@@ -27,3 +27,5 @@ class Solution {
             return nums;
     }
 }
+```
+
